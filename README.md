@@ -44,6 +44,10 @@ Headings:
 * 'number of light neutrino generations': Calculate number of light neutrino from total and partial decay widths.
 * 'peak cross section': Calculate the peak cross section directly from the fit
 * 'Confidence level': Calculate the t-values from our values, the values from the instructions and the OPAL data.
-* 
+* 'percentage deviation': And also the deviations of the values above in percentages.
+* 'Exercise 4 - Forward-backward asymmetry': Calculate the AFB from the number of muons scattered in the forward and backward direction by manualy counting them.
+* 'Errors': Erros for AFB and the plot with the try to fit.
+* 'Weinberg Angle': Get the Weinberg Angle from AFB.
+* 'Exercise 5': Calculate the ratios of lepton cross sections at the peaks + confidence level with t-test, as well as the ratios of the hadron cross section and lepton cross section at peak and also the ratios of the branching ratios of hadron to letpon branching ratio.
 
   
